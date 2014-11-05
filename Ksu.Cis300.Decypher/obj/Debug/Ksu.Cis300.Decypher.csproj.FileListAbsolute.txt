@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\KSU\Fall 2014\CIS 300\HW4\Ksu.Cis300.Decypher\Ksu.Cis300.Decypher\bin\Debug\Ksu.Cis300.Decypher.exe.config
+C:\Users\Admin\Documents\KSU\Fall 2014\CIS 300\HW4\Ksu.Cis300.Decypher\Ksu.Cis300.Decypher\obj\Debug\Ksu.Cis300.Decypher.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\KSU\Fall 2014\CIS 300\HW4\Ksu.Cis300.Decypher\Ksu.Cis300.Decypher\obj\Debug\Ksu.Cis300.Decypher.UserInterface.resources
+C:\Users\Admin\Documents\KSU\Fall 2014\CIS 300\HW4\Ksu.Cis300.Decypher\Ksu.Cis300.Decypher\obj\Debug\Ksu.Cis300.Decypher.Properties.Resources.resources
+C:\Users\Admin\Documents\KSU\Fall 2014\CIS 300\HW4\Ksu.Cis300.Decypher\Ksu.Cis300.Decypher\obj\Debug\Ksu.Cis300.Decypher.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\KSU\Fall 2014\CIS 300\HW4\Ksu.Cis300.Decypher\Ksu.Cis300.Decypher\bin\Debug\Ksu.Cis300.Decypher.exe
+C:\Users\Admin\Documents\KSU\Fall 2014\CIS 300\HW4\Ksu.Cis300.Decypher\Ksu.Cis300.Decypher\bin\Debug\Ksu.Cis300.Decypher.pdb
+C:\Users\Admin\Documents\KSU\Fall 2014\CIS 300\HW4\Ksu.Cis300.Decypher\Ksu.Cis300.Decypher\obj\Debug\Ksu.Cis300.Decypher.exe
+C:\Users\Admin\Documents\KSU\Fall 2014\CIS 300\HW4\Ksu.Cis300.Decypher\Ksu.Cis300.Decypher\obj\Debug\Ksu.Cis300.Decypher.pdb
